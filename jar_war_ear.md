@@ -112,7 +112,6 @@ An **EAR file** is a **big enterprise package** that contains multiple modules.
 
 ---
 
-# 🎯 How to Explain in Class (Simple Line)
 
 👉 “JAR is for **Java programs**, WAR is for **web applications**, and EAR is for **large enterprise systems combining multiple apps**.”
 
