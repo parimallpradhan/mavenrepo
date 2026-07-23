@@ -95,6 +95,8 @@ mvn archetype:generate \
 
 ## Modify Code
 
+AppTest.java
+
 ```java id="1x4bxz"
 public class App {
     public static void main(String[] args) {
